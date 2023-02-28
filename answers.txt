@@ -1,0 +1,4 @@
+Var let's you reassign and redeclare a variable, while let let's you reassign but not redeclare. Var also can access a hoisted variable, let cannot as it's a block scope.
+Const does not let you reasign or redeclare a variable. Var can access a hoisted variable, const is a block scope.
+Let can be reassigned, const cannot.
+Hoisting allows you to access a variable before it's defined.
